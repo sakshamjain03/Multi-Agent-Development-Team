@@ -44,8 +44,8 @@ This project is hosted on **Streamlit Community Cloud (Free Tier)**.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/sakshamjain03/DataEconomy-Coding-Agent.git
-cd DataEconomy-Coding-Agent
+git clone https://github.com/sakshamjain03/Multi-Agent-Development-Team.git
+cd Multi-Agent-Development-Team
 ```
 
 2. Create Virtual Environment
